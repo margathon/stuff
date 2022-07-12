@@ -1,0 +1,499 @@
+{
+    "name": "P2 Fury",
+    "phase": 2,
+    "links": {
+        "talents": "https://eightyupgrades.com/talents/warrior/1CABIJNFmQSRTVYXZ7A0ACFDIJK1mm?g=0Aej1acb"
+    },
+    "character": {
+        "name": "Margathon",
+        "level": 80,
+        "gameClass": "WARRIOR",
+        "race": "HUMAN",
+        "faction": "ALLIANCE"
+    },
+    "items": [
+        {
+            "name": "Conqueror's Siegebreaker Helmet",
+            "id": 46151,
+            "enchant": {
+                "name": "Arcanum of Torment",
+                "id": 3817,
+                "itemId": 50367
+            },
+            "gems": [
+                {
+                    "name": "Chaotic Skyflare Diamond",
+                    "id": 41285
+                },
+                {
+                    "name": "Bold Dragon's Eye",
+                    "id": 42142
+                }
+            ],
+            "slot": "HEAD"
+        },
+        {
+            "name": "Pendulum of Infinity",
+            "id": 45517,
+            "gems": [
+                {
+                    "name": "Bold Dragon's Eye",
+                    "id": 42142
+                }
+            ],
+            "slot": "NECK"
+        },
+        {
+            "name": "Conqueror's Siegebreaker Shoulderplates",
+            "id": 46149,
+            "enchant": {
+                "name": "Greater Inscription of the Axe",
+                "id": 3808,
+                "itemId": 50335
+            },
+            "gems": [
+                {
+                    "name": "Bold Dragon's Eye",
+                    "id": 42142
+                }
+            ],
+            "slot": "SHOULDERS"
+        },
+        {
+            "name": "Conqueror's Siegebreaker Battleplate",
+            "id": 46146,
+            "enchant": {
+                "name": "Enchant Chest - Powerful Stats",
+                "id": 3832,
+                "spellId": 60692
+            },
+            "gems": [
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                },
+                {
+                    "name": "Sovereign Twilight Opal",
+                    "id": 40022
+                }
+            ],
+            "slot": "CHEST"
+        },
+        {
+            "name": "Starfall Girdle",
+            "id": 46041,
+            "gems": [
+                null,
+                null
+            ],
+            "slot": "WAIST"
+        },
+        {
+            "name": "Legguards of Cunning Deception",
+            "id": 45536,
+            "enchant": {
+                "name": "Icescale Leg Armor",
+                "id": 3823,
+                "itemId": 38374
+            },
+            "gems": [
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                },
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                },
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                }
+            ],
+            "slot": "LEGS"
+        },
+        {
+            "name": "Melancholy Sabatons",
+            "id": 40591,
+            "enchant": {
+                "name": "Nitro Boosts",
+                "id": 3606,
+                "itemId": 41118
+            },
+            "slot": "FEET"
+        },
+        {
+            "name": "Armbands of Bedlam",
+            "id": 45663,
+            "enchant": {
+                "name": "Enchant Bracers - Greater Assault",
+                "id": 3845,
+                "spellId": 44575
+            },
+            "gems": [
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                }
+            ],
+            "slot": "WRISTS"
+        },
+        {
+            "name": "Conqueror's Siegebreaker Gauntlets",
+            "id": 46148,
+            "enchant": {
+                "name": "Hyperspeed Accelerators",
+                "id": 3604,
+                "spellId": 54999
+            },
+            "gems": [
+                null
+            ],
+            "slot": "HANDS"
+        },
+        {
+            "name": "Brann's Signet Ring",
+            "id": 45608,
+            "gems": [
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                }
+            ],
+            "slot": "FINGER_1"
+        },
+        {
+            "name": "Brann's Sealing Ring",
+            "id": 46322,
+            "gems": [
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                }
+            ],
+            "slot": "FINGER_2"
+        },
+        {
+            "name": "Darkmoon Card: Greatness",
+            "id": 42987,
+            "slot": "TRINKET_1"
+        },
+        {
+            "name": "Mjolnir Runestone",
+            "id": 45931,
+            "slot": "TRINKET_2"
+        },
+        {
+            "name": "Drape of the Faceless General",
+            "id": 46032,
+            "enchant": {
+                "name": "Flexweave Underlay",
+                "id": 3605,
+                "itemId": 41111
+            },
+            "gems": [
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                },
+                {
+                    "name": "Inscribed Monarch Topaz",
+                    "id": 40037
+                }
+            ],
+            "slot": "BACK"
+        },
+        {
+            "name": "Voldrethar, Dark Blade of Oblivion",
+            "id": 45516,
+            "enchant": {
+                "name": "Enchant Weapon - Berserking",
+                "id": 3789,
+                "spellId": 59621
+            },
+            "gems": [
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                },
+                {
+                    "name": "Sovereign Twilight Opal",
+                    "id": 40022
+                }
+            ],
+            "slot": "MAIN_HAND"
+        },
+        {
+            "name": "Voldrethar, Dark Blade of Oblivion",
+            "id": 45516,
+            "enchant": {
+                "name": "Enchant Weapon - Berserking",
+                "id": 3789,
+                "spellId": 59621
+            },
+            "gems": [
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                },
+                {
+                    "name": "Sovereign Twilight Opal",
+                    "id": 40022
+                }
+            ],
+            "slot": "OFF_HAND"
+        },
+        {
+            "name": "Twirling Blades",
+            "id": 45296,
+            "gems": [
+                {
+                    "name": "Bold Scarlet Ruby",
+                    "id": 39996
+                }
+            ],
+            "slot": "RANGED"
+        }
+    ],
+    "consumables": [],
+    "buffs": [],
+    "talents": [
+        {
+            "name": "Deep Wounds",
+            "id": 121,
+            "rank": 3,
+            "spellId": 12867
+        },
+        {
+            "name": "Improved Heroic Strike",
+            "id": 124,
+            "rank": 3,
+            "spellId": 12664
+        },
+        {
+            "name": "Improved Charge",
+            "id": 126,
+            "rank": 2,
+            "spellId": 12697
+        },
+        {
+            "name": "Improved Rend",
+            "id": 127,
+            "rank": 2,
+            "spellId": 12658
+        },
+        {
+            "name": "Tactical Mastery",
+            "id": 128,
+            "rank": 3,
+            "spellId": 12677
+        },
+        {
+            "name": "Two-Handed Weapon Specialization",
+            "id": 136,
+            "rank": 3,
+            "spellId": 12712
+        },
+        {
+            "name": "Commanding Presence",
+            "id": 154,
+            "rank": 5,
+            "spellId": 12861
+        },
+        {
+            "name": "Flurry",
+            "id": 156,
+            "rank": 5,
+            "spellId": 12974
+        },
+        {
+            "name": "Cruelty",
+            "id": 157,
+            "rank": 5,
+            "spellId": 12856
+        },
+        {
+            "name": "Booming Voice",
+            "id": 158,
+            "rank": 2,
+            "spellId": 12835
+        },
+        {
+            "name": "Death Wish",
+            "id": 165,
+            "rank": 1,
+            "spellId": 12292
+        },
+        {
+            "name": "Improved Cleave",
+            "id": 166,
+            "rank": 3,
+            "spellId": 20496
+        },
+        {
+            "name": "Bloodthirst",
+            "id": 167,
+            "rank": 1,
+            "spellId": 23881
+        },
+        {
+            "name": "Impale",
+            "id": 662,
+            "rank": 2,
+            "spellId": 16494
+        },
+        {
+            "name": "Dual Wield Specialization",
+            "id": 1581,
+            "rank": 5,
+            "spellId": 23588
+        },
+        {
+            "name": "Improved Whirlwind",
+            "id": 1655,
+            "rank": 2,
+            "spellId": 29776
+        },
+        {
+            "name": "Precision",
+            "id": 1657,
+            "rank": 3,
+            "spellId": 29592
+        },
+        {
+            "name": "Improved Berserker Stance",
+            "id": 1658,
+            "rank": 5,
+            "spellId": 29763
+        },
+        {
+            "name": "Rampage",
+            "id": 1659,
+            "rank": 1,
+            "spellId": 29801
+        },
+        {
+            "name": "Intensify Rage",
+            "id": 1864,
+            "rank": 3,
+            "spellId": 56924
+        },
+        {
+            "name": "Bloodsurge",
+            "id": 1866,
+            "rank": 3,
+            "spellId": 46915
+        },
+        {
+            "name": "Titan's Grip",
+            "id": 1867,
+            "rank": 1,
+            "spellId": 46917
+        },
+        {
+            "name": "Unending Fury",
+            "id": 2234,
+            "rank": 5,
+            "spellId": 56932
+        },
+        {
+            "name": "Armored to the Teeth",
+            "id": 2250,
+            "rank": 3,
+            "spellId": 61222
+        }
+    ],
+    "glyphs": [
+        {
+            "name": "Glyph of Whirlwind",
+            "id": 43432,
+            "type": "MAJOR"
+        },
+        {
+            "name": "Glyph of Cleaving",
+            "id": 43414,
+            "type": "MAJOR"
+        },
+        {
+            "name": "Glyph of Heroic Strike",
+            "id": 43418,
+            "type": "MAJOR"
+        },
+        {
+            "name": "Glyph of Battle",
+            "id": 43395,
+            "type": "MINOR"
+        },
+        {
+            "name": "Glyph of Charge",
+            "id": 43397,
+            "type": "MINOR"
+        },
+        {
+            "name": "Glyph of Bloodrage",
+            "id": 43396,
+            "type": "MINOR"
+        }
+    ],
+    "points": [
+        {
+            "name": "Fury P2",
+            "stats": {
+                "dps": 22,
+                "attackPower": 0.3805,
+                "agility": 0.7295,
+                "strength": 1,
+                "armorPenRating": 0.9538,
+                "critRating": 0.8755,
+                "hasteRating": 0.6341,
+                "hitRating": 0.1333,
+                "armor": 0.00704,
+                "metaSockets": 80,
+                "redSockets": 16,
+                "yellowSockets": 16,
+                "blueSockets": 16,
+                "prismaticSockets": 16
+            }
+        }
+    ],
+    "stats": {
+        "agility": 527,
+        "armor": 13222,
+        "armorPen": 39.57,
+        "armorPenRating": 554,
+        "attackPower": 5004,
+        "block": 5,
+        "blockValueBonus": 904,
+        "crit": 37.69,
+        "critRating": 967,
+        "defense": 400,
+        "dodge": 9.9,
+        "expertise": 17,
+        "expertiseRating": 116,
+        "haste": 2.47,
+        "hasteRating": 81,
+        "health": 24161,
+        "hit": 6.23,
+        "hitRating": 106,
+        "intellect": 46,
+        "mainHandSpeed": 3.6,
+        "mana": 410,
+        "offHandSpeed": 3.6,
+        "parry": 5,
+        "rangedAttackPower": 5381,
+        "rangedCrit": 37.69,
+        "rangedCritRating": 967,
+        "rangedHit": 6.23,
+        "rangedHitRating": 106,
+        "spellCrit": 21.06,
+        "spellHaste": 2.47,
+        "spellHit": 4.04,
+        "spirit": 73,
+        "stamina": 1622,
+        "strength": 1809
+    },
+    "exportOptions": {
+        "buffs": true,
+        "talents": true
+    }
+}
